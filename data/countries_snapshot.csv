@@ -1,0 +1,25 @@
+country,iso3,region,cinc,ideal_point,bloc_hint
+United States,USA,N.America,0.140,2.50,West
+China,CHN,Asia,0.220,-0.55,East
+India,IND,Asia,0.078,-0.40,NonAligned
+Russia,RUS,Eurasia,0.039,-0.60,East
+Japan,JPN,Asia,0.022,1.10,West
+Germany,DEU,Europe,0.016,1.35,West
+United Kingdom,GBR,Europe,0.014,1.30,West
+France,FRA,Europe,0.014,1.25,West
+Brazil,BRA,S.America,0.020,-0.30,NonAligned
+Pakistan,PAK,Asia,0.018,-0.50,NonAligned
+Iran,IRN,M.East,0.013,-1.05,East
+Israel,ISR,M.East,0.003,2.70,West
+Saudi Arabia,SAU,M.East,0.008,0.15,NonAligned
+Turkey,TUR,M.East,0.011,0.30,West
+South Korea,KOR,Asia,0.013,0.85,West
+North Korea,PRK,Asia,0.010,-1.05,East
+Indonesia,IDN,Asia,0.018,-0.35,NonAligned
+Egypt,EGY,Africa,0.011,-0.45,NonAligned
+Nigeria,NGA,Africa,0.009,-0.40,NonAligned
+South Africa,ZAF,Africa,0.006,-0.55,NonAligned
+Australia,AUS,Oceania,0.007,1.30,West
+Canada,CAN,N.America,0.008,1.20,West
+Italy,ITA,Europe,0.010,1.15,West
+Ukraine,UKR,Europe,0.008,0.55,West

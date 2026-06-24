@@ -1,0 +1,6 @@
+mesa>=3.0        # the agent-based modeling framework
+networkx>=3.0    # the relationship network + community/bloc detection
+numpy>=1.24      # vectorized rules
+matplotlib>=3.6  # plots in run.py
+pandas>=2.0      # results handling (Mesa DataCollector returns DataFrames)
+pytest>=7.0      # optional, nicer test running
