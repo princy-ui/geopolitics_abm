@@ -1,4 +1,4 @@
-# A geopolitical agent-based model (Mesa)
+# A geopolitical agent-based model (Mesa-based)
 
 Countries are **agents on a signed relationship network**. A few rules taken
 straight from the geopolitical-network literature drive how the network rewires,
