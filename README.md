@@ -4,9 +4,8 @@ Countries are **agents on a signed relationship network**. A few rules taken
 straight from the geopolitical-network literature drive how the network rewires,
 and **blocs, polarization, and conflict emerge** — none of them are hard-coded.
 
-This is the Python/Mesa path: she has *full control of the code* (it's hers to
-modify), it's genuinely geopolitical (states, alliances, rivalries, war), and it
-runs forward in time so it can later be coupled to an emissions model.
+This is the Python/Mesa path, and it runs forward in time so it can later be 
+coupled to an emissions model.
 
 ## What's here
 
